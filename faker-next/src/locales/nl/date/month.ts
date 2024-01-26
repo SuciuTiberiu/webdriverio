@@ -1,0 +1,31 @@
+export default {
+  wide: [
+    'januari',
+    'februari',
+    'maart',
+    'april',
+    'mei',
+    'juni',
+    'juli',
+    'augustus',
+    'september',
+    'oktober',
+    'november',
+    'december',
+  ],
+
+  abbr: [
+    'jan',
+    'feb',
+    'mrt',
+    'apr',
+    'mei',
+    'jun',
+    'jul',
+    'aug',
+    'sep',
+    'okt',
+    'nov',
+    'dec',
+  ],
+};

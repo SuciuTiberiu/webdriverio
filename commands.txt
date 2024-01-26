@@ -1,0 +1,12 @@
+mkdir - make directory
+cd [path] - move into path location
+npm init -y - generate package
+npm install @wdio/cli - install webdriver
+npx wdio config - on my local machine
+				- mocha
+				- no compiler
+				- test specs located (./test/specs/**/*.js)
+				- autogenerate no
+				- reporter - spec
+				- service - chromedriver
+				- base url https://practice.automationbro.com

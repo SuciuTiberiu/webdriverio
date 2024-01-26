@@ -1,0 +1,31 @@
+export default {
+  wide: [
+    'siječanj',
+    'veljača',
+    'ožujak',
+    'travanj',
+    'svibanj',
+    'lipanj',
+    'srpanj',
+    'kolovoz',
+    'rujan',
+    'listopad',
+    'studeni',
+    'prosinac',
+  ],
+
+  abbr: [
+    'sij',
+    'vel',
+    'ožu',
+    'tra',
+    'svi',
+    'lip',
+    'srp',
+    'kol',
+    'ruj',
+    'lis',
+    'stu',
+    'pro',
+  ],
+};
